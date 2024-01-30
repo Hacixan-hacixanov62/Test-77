@@ -1,0 +1,7 @@
+Name:Hajıkhan 
+Surname:Hajıkhanov
+Age:19
+Where I studied: Azerbaijan Technikal Universtiy
+Faculty:Energetika and Automation 
+specialty:Automation of processes
+group: 272a3
