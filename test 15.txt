@@ -1,0 +1,27 @@
+Hacixanov@DESKTOP-LQO56E8 MINGW64 ~/Downloads (master)
+$ git add .
+
+Hacixanov@DESKTOP-LQO56E8 MINGW64 ~/Downloads (master)
+$ git commit -m "added text to file"
+[master c4974dc] added text to file
+ 2 files changed, 10 insertions(+)
+ create mode 100644 test 13.txt
+ create mode 100644 test 14.txt
+
+Hacixanov@DESKTOP-LQO56E8 MINGW64 ~/Downloads (master)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 669 bytes | 669.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Hacixan-hacixanov62/Test-77.git
+   b7f9fc0..c4974dc  master -> master
+
+Hacixanov@DESKTOP-LQO56E8 MINGW64 ~/Downloads (master)
+$ 5^C
+
+Hacixanov@DESKTOP-LQO56E8 MINGW64 ~/Downloads (master)
+$
